@@ -76,5 +76,4 @@ def return_OneText():
     return "<h1>欢迎使用本接口</h1>"
 
 
-if __name__ == '__main__':
-    app.run()
+
