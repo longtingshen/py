@@ -41,5 +41,3 @@ def booy3():
     return f"你获取到的参数是：{data}"
 
 
-if __name__ == '__main__':
-    app.run(debug=True)  # debug=True 开启debug模式
